@@ -14,7 +14,7 @@ Sonar (sound navigation ranging) is a technique that uses sound propagation (usu
 
 [CIA Country Analysis and Clustering](https://github.com/Kathi-Urban/new_project/blob/main/Kmeans-Clustering/KMeans%20Clustering%20Project.ipynb):
 Implemented a **Kmeans-Clustering model** to gain insights into similarity between countries and regions of the world by experimenting with different cluster amounts.
-
+![World Map](https://github.com/Kathi-Urban/new_project/blob/867a9a5d7ae117b1f8f9a6735c1f5a18eb2290d3/Kmeans-Clustering/World%20Map.png)
 These data sets are made up of data from the US government. [Data Source](https://www.cia.gov/library/publications/the-world-factbook/docs/faqs.html)
 
 [Handwritten Digits](https://github.com/Kathi-Urban/new_project/blob/main/Principal%20Component%20Analysis/Principal%20Component%20Analysis%20Project.ipynb):
@@ -36,7 +36,7 @@ Counterfeiting and the relabelling of inferior and cheaper wines to more expensi
 Data Source: P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 [Customer Churn](https://github.com/Kathi-Urban/new_project/blob/main/Tree%20Methods/Tree%20Methods%20Project%20-%20Supervised%20Learning.ipynb):
-In this project I analyzed the general trend of the customer churn changes over time. I explored 4 different tree based methods (A Single Decision Tree, Random Forest, AdaBoost, Gradient Boosting) to predict whether or not a customer will Churn.
+In this project I analyzed the general trend of the customer churn changes over time. I explored 4 different tree based methods **(A Single Decision Tree, Random Forest, AdaBoost, Gradient Boosting)** to predict whether or not a customer will Churn.
 
 
 
